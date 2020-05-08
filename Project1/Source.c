@@ -1,7 +1,7 @@
 void main()
 {
 
-	int aa;
+	int hello;
 	int aaaa;
 
 }
