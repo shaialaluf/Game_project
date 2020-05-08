@@ -1,7 +1,7 @@
 void main()
 {
 
-	int hello = 5555;
+	int hello = 17;
 	int aaaa;
 
 }
