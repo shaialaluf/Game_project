@@ -1,2 +1,7 @@
 void main()
-hjhjhjh
+{
+
+	int aa;
+	int aaaa;
+
+}
