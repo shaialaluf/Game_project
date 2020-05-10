@@ -1,4 +1,8 @@
 void main()
-changes
-adhasdashdfasfh;
-asssssssssaaaaa
+{
+	changes
+		adhasdashdfasfh;
+	asssssssssaaaaa
+		hj;
+	asd;
+}
