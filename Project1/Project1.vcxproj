@@ -143,7 +143,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c" />
+    <ClCompile Include="..\..\Project72\Project72\maim.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Project72\Project72\board.h" />
+    <ClInclude Include="..\..\Project72\Project72\move.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
