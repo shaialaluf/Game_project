@@ -4,7 +4,7 @@
 #include "move.h"
 #include "board.h"
 # define M 5
-# define N 4
+# define N 4 
 
 movesArray** buildMovesBoard();
 char **buildBoard();
