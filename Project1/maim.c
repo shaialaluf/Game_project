@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include "move.h"
-#include "Board1.h"
+#include "Board.h"
 # define M 5
 # define N 4
 
